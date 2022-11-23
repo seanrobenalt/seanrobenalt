@@ -2,7 +2,7 @@
 
 I'm a full-stack dev w/ a pure love of engineering and first principles thinking. I mostly enjoy building backend systems.
 
-#### some startups i've built for work:
+#### some startups i've built:
 
 - [Forever Labs, Inc.](https://foreverlabs.com)
 - [FixMyCar](https://www.fixmycar.io)
