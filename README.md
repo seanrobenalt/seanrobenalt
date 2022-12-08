@@ -16,6 +16,6 @@ I'm a full-stack dev w/ a pure love of engineering and first principles thinking
 
 - [LinkedIn](https://linkedin.com/in/seanrobenalt)
 - I sometimes [write on substack](https://seanrobenalt.substack.com)
-- [Twitter](https://twitter.com/seanrob89)
+- [Twitter](https://twitter.com/ResearchFundNFT)
 - [ENS Profile](https://robenalt.eth.xyz)
 - Email [me](mailto:srob0722@gmail.com)
