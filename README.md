@@ -7,9 +7,14 @@ I'm a full-stack dev w/ a pure love of engineering and first principles thinking
 - [Forever Labs, Inc.](https://foreverlabs.com)
 - [FixMyCar](https://www.fixmycar.io)
 
-#### some web3 projects i've built and/or contributed to:
+#### nft collections
 
 - [Research Fund NFT](https://researchfundnft.com)
+- [Research Fund NFT memes](https://opensea.io/collection/research-fund-nft-memes)
+
+
+#### some web3 projects i've built and/or contributed to:
+
 - [Daylight XYZ](https://www.daylight.xyz/)
 
 #### about me
